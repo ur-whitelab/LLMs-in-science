@@ -1,3 +1,5 @@
+<a href="#"><img src="https://img.shields.io/badge/Version-0.0.0-blue.svg"/></a>
+
 # Large language models and autonomous agents in chemistry: a review
 
 Our review paper has, by no means, the goal of discussing the entire LLM/autonomous agents literature.
