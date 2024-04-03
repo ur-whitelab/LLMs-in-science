@@ -1,6 +1,7 @@
-<a href="#"><img src="https://img.shields.io/badge/Version-0.0.0-blue.svg"/></a>
-
 # Large language models and autonomous agents in chemistry: a review
+
+<a href="#"><img src="https://img.shields.io/badge/Version-0.0.0-blue.svg"/></a>
+[![arXiv](https://img.shields.io/badge/arXiv-<INDEX>-red.svg)](https://arxiv.org/abs/<INDEX>)
 
 Our review paper has, by no means, the goal of discussing the entire LLM/autonomous agents literature.
 Instead, we propose a general discussion of these studies' trend topics, challenges, and potential for supporting scientific discovery.
