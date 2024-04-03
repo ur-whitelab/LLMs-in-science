@@ -8,21 +8,23 @@ Therefore, we must maintain a systematic structure of the field with collaborati
 With this in mind, we aim to create this repository as a broad, open-source, collaborative environment for organizing the large number of papers published daily.
 > Please check our CONTRIBUTING.md file to know how to contribute.
 
-## Large Language Models (LLM)
-### Reviews
+
+## Table of Contents
+
+- [Large Language Models (LLM)]()
+    - [Reviews]()
+
+- [LLMs in science]()
+    - [Tasks]()
+
+- [LLM-based autonomous agents]()
+    - [Memory]()
+    - [Planning module]()
+    - [Tools (or action)]()
+    - [Profiling]()
+    - [Perception module]()
 
 
-## LLMs in science
-
-### Tasks
-
-## LLM-based autonomous agents
-### Memory
-### Planning module
-### Tools (or action)
-### Profiling
-### Perception module
-
-## Agents in science
-### Fields
+- [Agents in science]()
+    - [Fields]()
 
