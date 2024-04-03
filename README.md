@@ -11,20 +11,20 @@ With this in mind, we aim to create this repository as a broad, open-source, col
 
 ## Table of Contents
 
-- [Large Language Models (LLM)]()
-    - [Reviews]()
+- [Large Language Models (LLM)](https://github.com/maykcaldas/LLM-in-chemistry/tree/main/LLM#large-language-models-llm)
+    - [Reviews](https://github.com/maykcaldas/LLM-in-chemistry/tree/main/LLM#reviews)
 
-- [LLMs in science]()
-    - [Tasks]()
+- [LLMs in science](https://github.com/maykcaldas/LLM-in-chemistry/blob/main/Sci_LLM/README.md#llms-in-science)
+    - [Tasks](https://github.com/maykcaldas/LLM-in-chemistry/blob/main/Sci_LLM/README.md#tasks)
 
-- [LLM-based autonomous agents]()
-    - [Memory]()
-    - [Planning module]()
-    - [Tools (or action)]()
-    - [Profiling]()
-    - [Perception module]()
+- [LLM-based autonomous agents](https://github.com/maykcaldas/LLM-in-chemistry/tree/main/Agents#llm-based-autonomous-agents)
+    - [Memory](https://github.com/maykcaldas/LLM-in-chemistry/tree/main/Agents#memory)
+    - [Planning module](https://github.com/maykcaldas/LLM-in-chemistry/tree/main/Agents#planning-module)
+    - [Tools (or action)](https://github.com/maykcaldas/LLM-in-chemistry/tree/main/Agents#tools-or-action)
+    - [Profiling](https://github.com/maykcaldas/LLM-in-chemistry/tree/main/Agents#profiling)
+    - [Perception module](https://github.com/maykcaldas/LLM-in-chemistry/tree/main/Agents#perception-module)
 
 
-- [Agents in science]()
-    - [Fields]()
+- [Agents in science](https://github.com/maykcaldas/LLM-in-chemistry/tree/main/Agents#perception-module)
+    - [Fields](https://github.com/maykcaldas/LLM-in-chemistry/tree/main/Agents#perception-module)
 
