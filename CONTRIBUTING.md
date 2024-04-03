@@ -5,16 +5,41 @@ email, or any other method with the owners of this repository before making a ch
 
 Please note we have a code of conduct, please follow it in all your interactions with the project.
 
+## Adding content process
+
+Each big topic is organized in its specific directory, where a `README.md` file has the structured list of papers.
+The main `README.md`, place in the root of this repository, must have the table of content only.
+
+Therefore, to contribute with new papers, please:
+
+1. Find the topic where the paper best fit.
+2. Write the structured entry for the record. 
+   Currently, each record has its date, name, publication's title and repositories.
+   1. Date is the date of publication
+   2. Name is a common name used to refer to the record. For instance, the model or the dataset name. Not every paper has the model's name directly in its title. An example is PubMedBERT, which publication is entitled "Domain-Specific Language Model Pretraining for Biomedical Natural Language Processing".
+   3. Publication is the publication's title. The title should be a link for the publication.
+   4. Repositories contains links for available code, weights, dataset, downloable dataset, or any available content. Currently I have logos for GitHub and for HuggingFace repositories. Any other platform can be added as needed. Please follow the examples if you want to add a new asset.
+   > Please note that the path for the github logo is slightly different in the topic's directory. Please, folow examples already available
+
+|   Date    |     Name    | Publication | Repositories |
+| :-------: | :---------- | :--------- | :---------: |
+| `YYYY/MM` | Known name  |  [Title](link_to_the_paper) | [<img src="assets/github-mark-white.svg" width="20" />](link_to_github_repo) | 
+| `YYYY/MM` | Known name  |  [Title](link_to_the_paper) | [🤗](link_to_huggingface) |
+| `YYYY/MM` | Known name  |  [Title](link_to_the_paper) | [<img src="assets/github-mark-white.svg" width="20" />](link_to_github_repo) [🤗](link_to_huggingface) |
+
+3. Add the new record in the correct subsection.
+4. Open a Pull Request
+
 ## Pull Request Process
 
-1. Ensure any install or build dependencies are removed before the end of the layer when doing a 
-   build.
-2. Update the README.md with details of changes to the interface, this includes new environment 
+1. Update the README.md with details of changes to the interface, this includes new environment 
    variables, exposed ports, useful file locations and container parameters.
-3. Increase the version numbers in any examples files and the README.md to the new version that this
+2. Increase the version numbers in any examples files and the README.md to the new version that this
    Pull Request would represent. The versioning scheme we use is [SemVer](http://semver.org/).
-4. You may merge the Pull Request in once you have the sign-off of two other developers, or if you 
-   do not have permission to do that, you may request the second reviewer to merge it for you.
+   Given a version = X.Y.Z, please, increment Z. 
+   X is reserved for major releases and Y for minor release patches and the maintainers are responsible for incrementing those.
+3. You may merge the Pull Request in once you have the sign-off of the maintainers, or if you 
+   do not have permission to do that, you may request the maintainer to merge it for you.
 
 ## Code of Conduct
 
