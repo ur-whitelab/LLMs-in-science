@@ -6,7 +6,7 @@ Instead, we propose a general discussion of these studies' trend topics, challen
 Because artificial intelligence is a hot topic at the moment, and the daily number of new papers is just astonishing, any published review is fated to be outdated after a few months.
 Therefore, we must maintain a systematic structure of the field with collaboration. 
 With this in mind, we aim to create this repository as a broad, open-source, collaborative environment for organizing the large number of papers published daily.
-> Please check our CONTRIBUTING.md file to know how to contribute.
+> Please check our [CONTRIBUTING.md](https://github.com/maykcaldas/LLM-in-chemistry/blob/main/CONTRIBUTING.md) file to know how to contribute.
 
 
 ## Table of Contents
