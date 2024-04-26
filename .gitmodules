@@ -1,2 +1,3 @@
 [submodule "LLMTimeline"]
+	path = LLMTimeline
 	url = https://github.com/maykcaldas/LLMTimeline.git
