@@ -64,10 +64,10 @@
 | `2022.05` | MolFormer       | [Molformer: Large Scale Chemical Language Representations Capture Molecular Structure and Properties](https://www.researchsquare.com/article/rs-1570270/v1) | |
 | `2022.05` | ScholarBERT     | [The Diminishing Returns of Masked Language Models to Science](https://arxiv.org/abs/2205.11342) | |
 | `2022.04` | MolT5           | [Translation between Molecules and Natural Language](https://arxiv.org/abs/2204.11817)|  |
-| `2022.04` | MatBERT         | [TiMolecular representation learning with language models and domain-relevant auxiliary taskstle](https://arxiv.org/abs/2011.13230) | |
+| `2022.04` | MatBERT         | [Molecular representation learning with language models and domain-relevant auxiliary tasks](https://arxiv.org/abs/2011.13230) | |
 | `2022.03` | T5Chem          | [Unified Deep Learning Model for Multitask Reaction Predictions with Explanation](https://pubs.acs.org/doi/10.1021/acs.jcim.1c01467)| [<img src="../assets/github-mark-white.svg" width="20" />](https://yzhang.hpc.nyu.edu/T5Chem/) |
 | `2022.01` | ChemFormer      | [Chemformer: a pre-trained transformer for computational chemistry](https://iopscience.iop.org/article/10.1088/2632-2153/ac3ffb)| [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/MolecularAI/Chemformer) |
-| `2021.11` | Text2Mol        | [Text2Mol: Cross-Modal Molecule Retrieval with Natural Language Queries](https://aclanthology.org/2021.emnlp-main.47/)| ) |
+| `2021.11` | Text2Mol        | [Text2Mol: Cross-Modal Molecule Retrieval with Natural Language Queries](https://aclanthology.org/2021.emnlp-main.47/)|  |
 | `2021.10` | MolGPT          | [MolGPT: Molecular Generation Using a Transformer-Decoder Model](https://pubs.acs.org/doi/full/10.1021/acs.jcim.1c00600)|  |
 | `2021.10` | MTL-BERT        | [ALL-IN-ONE: Multi-Task Learning BERT models for Evaluating Peer Assessments](https://arxiv.org/abs/2110.03895) | |
 | `2021.10` | PubMedBERT      | [Domain-Specific Language Model Pretraining for Biomedical Natural Language Processing](https://dl.acm.org/doi/10.1145/3458754) | |
