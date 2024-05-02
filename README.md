@@ -30,8 +30,8 @@ With this in mind, we aim to create this repository as a broad, open-source, col
     - [Perception module](https://github.com/maykcaldas/LLM-in-chemistry/tree/main/Agents#perception-module)
 
 
-- [Agents in science](https://github.com/maykcaldas/LLM-in-chemistry/tree/main/Sci_LLM#llms-in-science)
-    - [LLMs with memory](https://github.com/maykcaldas/LLM-in-chemistry/tree/main/Sci_LLM#llms-with-memory)
-    - [LLMs with reasoning](https://github.com/maykcaldas/LLM-in-chemistry/tree/main/Sci_LLM#llms-with-reasoning)
-    - [Agents](https://github.com/maykcaldas/LLM-in-chemistry/tree/main/Sci_LLM#agents)
+- [Agents in science](https://github.com/maykcaldas/LLM-in-chemistry/tree/main/Sci_agents#llms-in-science)
+    - [LLMs with memory](https://github.com/maykcaldas/LLM-in-chemistry/tree/main/Sci_agents#llms-with-memory)
+    - [LLMs with reasoning](https://github.com/maykcaldas/LLM-in-chemistry/tree/main/Sci_agents#llms-with-reasoning)
+    - [Agents](https://github.com/maykcaldas/LLM-in-chemistry/tree/main/Sci_agents#agents)
 
