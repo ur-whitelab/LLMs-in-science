@@ -4,8 +4,8 @@
 
 |   Date    |     Name     | Publication | Repositories |
 | :-------: | :---------- | :--------- | :---------: |
-| `2023.11` | BO-LIFT | [Bayesian Optimization of Catalysts With In-context Learning](http://arxiv.org/abs/2304.05341) | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/ur-whitelab/BO-LIFT) |
-| `2023.04` |  | [LLMs can design sustainable concrete -- a systematic benchmark](https://www.researchsquare.com/article/rs-3913272/v1) | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/BAMcvoelker/LLM-s-can-Design-Sustainable-Concrete-a-Systematic-Benchmark-Code-) |
+| `2024.02` |  | [LLMs can design sustainable concrete -- a systematic benchmark](https://www.researchsquare.com/article/rs-3913272/v1) | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/BAMcvoelker/LLM-s-can-Design-Sustainable-Concrete-a-Systematic-Benchmark-Code-) |
+| `2023.04` | BO-LIFT | [Bayesian Optimization of Catalysts With In-context Learning](http://arxiv.org/abs/2304.05341) | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/ur-whitelab/BO-LIFT) |
 
 ### LLMs with reasoning
 
@@ -15,8 +15,8 @@
 
 ### Agents
 
-|   Date    |     Name     | Publication | Repositories |
-| :-------: | :---------- | :--------- | :---------: |
+|   Date    |     Name      | Publication | Repositories |
+| :-------: | :----------   | :--------- | :---------: |
 | `2024.02` |  | [Prioritizing Safeguarding Over Autonomy: Risks of LLM Agents for Science](http://arxiv.org/abs/2402.04247) | [<img src="../assets/github-mark-white.svg" width="20" />](link_to_github_repo) |
 | `2024.02` | WikiCrow      | [WikiCrow: Automating Synthesis of Human Scientific Knowledge](https://www.futurehouse.org/wikicrow) |  |
 | `2024.02` | STORM         | [Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models](http://arxiv.org/abs/2402.14207) | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/stanford-oval/storm) |
