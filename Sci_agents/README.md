@@ -48,7 +48,7 @@
 
 |   Date    |     Name      | Publication | Repositories |
 | :-------: | :----------   | :--------- | :---------: |
-| `2024.02` |               | [Prioritizing Safeguarding Over Autonomy: Risks of LLM Agents for Science](http:/ /arxiv.org/abs/2402.04247) | |
+| `2024.02` |               | [Prioritizing Safeguarding Over Autonomy: Risks of LLM Agents for Science](http://arxiv.org/abs/2402.04247) | |
 |  |  | [LLM Agents Papers]() | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/zjunlp/LLMAgentPapers) |
 |  |  | [Awesome LLM agents]() | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/kaushikb11/awesome-llm-agents) |
 |  |  | [Awesome LLM-Powered Agent]() | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/hyp1231/awesome-llm-powered-agent) |
