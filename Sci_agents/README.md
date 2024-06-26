@@ -2,10 +2,11 @@
 
 ### LLMs with memory
 
-|   Date    |     Name     | Publication | Repositories |
-| :-------: | :---------- | :--------- | :---------: |
-| `2024.02` |  | [LLMs can design sustainable concrete -- a systematic benchmark](https://www.researchsquare.com/article/rs-3913272/v1) | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/BAMcvoelker/LLM-s-can-Design-Sustainable-Concrete-a-Systematic-Benchmark-Code-) |
-| `2023.04` | BO-LIFT | [Bayesian Optimization of Catalysts With In-context Learning](http://arxiv.org/abs/2304.05341) | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/ur-whitelab/BO-LIFT) |
+|   Date    |     Name      | Publication | Repositories |
+| :-------: | :----------   | :--------- | :---------: |
+| `2024.02` |               | [LLMs can design sustainable concrete -- a systematic benchmark](https://www.researchsquare.com/article/rs-3913272/v1) | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/BAMcvoelker/LLM-s-can-Design-Sustainable-Concrete-a-Systematic-Benchmark-Code-) |
+| `2023.12` | BoChemian     | [BoChemian: Large Language Model Embeddings for Bayesian Optimization of Chemical Reactions](https://openreview.net/pdf?id=A1RVn1m3J3) | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/schwallergroup/bochemian) |
+| `2023.04` | BO-LIFT       | [Bayesian Optimization of Catalysts With In-context Learning](http://arxiv.org/abs/2304.05341) | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/ur-whitelab/BO-LIFT) |
 
 ### LLMs with reasoning
 
@@ -33,16 +34,13 @@
 | `2023.10` | BioPlanner    | [BioPlanner: Automatic Evaluation of LLMs on Protocol Planning in Biology](http://arxiv.org/abs/2310.10632) | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/bioplanner/bioplanner) |
 | `2023.09` | IBM ChemChat  | [Language models in molecular discovery](http://arxiv.org/abs/2309.16235) |  |
 | `2023.08` | ChatMOF       | [ChatMOF: An Autonomous AI System for Predicting and Generating Metal-Organic Frameworks](http://arxiv.org/abs/2308.01423) | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/Yeonghun1675/ChatMOF) |
+| `2023.06` | AmadeusGPT    | [AmadeusGPT: a natural language interface for interactive animal behavioral analysis](https://arxiv.org/abs/2307.04858) | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/AdaptiveMotorControlLab/AmadeusGPT) |
 | `2023.04` | ChemCrow      | [ChemCrow: Augmenting large-language models with chemistry tools](http://arxiv.org/abs/2304.05376) | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/ur-whitelab/chemcrow-public) |
 
 ### Reviews 
 
 |   Date    |     Name      | Publication | Repositories |
 | :-------: | :----------   | :--------- | :---------: |
-| `2023.01` |  | []() | [<img src="../assets/github-mark-white.svg" width="20" />]() |
-| `2023.09` |  | [Cognitive Architectures for Language Agents](https://arxiv.org/abs/2309.02427) | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/ysymyth/awesome-language-agents) |
-| `2023.01` |  | [Large Language Model based Multi-Agents: A Survey of Progress and Challenges](https://arxiv.org/abs/2402.01680) | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/taichengguo/LLM_MultiAgents_Survey_Papers) |
-| `2023.08` |  | [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/abs/2308.11432) | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/Paitesanshi/LLM-Agent-Survey) |
 
 ### Miscelaneous
 
