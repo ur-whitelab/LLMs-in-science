@@ -9,18 +9,22 @@
 
 ### LLMs with reasoning
 
-|   Date    |     Name     | Publication | Repositories |
-| :-------: | :---------- | :--------- | :---------: |
+|   Date    |     Name      | Publication | Repositories |
+| :-------: | :----------   | :--------- | :---------: |
+| `2024.02` | STORM         | [Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models](https://arxiv.org/abs/2402.14207) | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/stanford-oval/storm) |
 | `2023.11` | StructChem    | [Structured Chemistry Reasoning with Large Language Models](http://arxiv.org/abs/2311.09656) | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/ozyyshr/StructChem) |
 
 ### Agents
 
 |   Date    |     Name      | Publication | Repositories |
 | :-------: | :----------   | :--------- | :---------: |
-| `2024.02` |  | [Prioritizing Safeguarding Over Autonomy: Risks of LLM Agents for Science](http://arxiv.org/abs/2402.04247) | [<img src="../assets/github-mark-white.svg" width="20" />](link_to_github_repo) |
+| `2024.06` | LLaMP         | [LLaMP: Large Language Model Made Powerful for High-fidelity Materials Knowledge Retrieval and Distillation](https://arxiv.org/abs/2401.17244) | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/chiang-yuan/llamp) |
+| `2024.04` | CRISPR-GPT    | [CRISPR-GPT: An LLM Agent for Automated Design of Gene-Editing Experiments](https://arxiv.org/abs/2404.18021) |  |
+| `2024.02` | TAIS          | [Toward a Team of AI-made Scientists for Scientific Discovery from Gene Expression Data](https://arxiv.org/abs/2402.12391) |  |
 | `2024.02` | WikiCrow      | [WikiCrow: Automating Synthesis of Human Scientific Knowledge](https://www.futurehouse.org/wikicrow) |  |
 | `2024.02` | STORM         | [Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models](http://arxiv.org/abs/2402.14207) | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/stanford-oval/storm) |
 | `2024.02` | SciAgent      | [SciAgent: Tool-augmented Language Models for Scientific Reasoning](http://arxiv.org/abs/2402.11451) |  |
+| `2024.01` | ProtAgent     | [ProtAgents: Protein discovery via large language model multi-agent collaborations combining physics and machine learning](https://arxiv.org/abs/2402.04268) | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/lamm-mit/ProtAgents) |
 | `2023.12` | PaperQA       | [PaperQA: Retrieval-augmented generative agent for scientific research](http://arxiv.org/abs/2312.07559) |  |
 | `2023.12` | CoScientist   | [Autonomous chemical research with large language models](https://www.nature.com/articles/s41586-023-06792-0) | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/gomesgroup/coscientist) |
 | `2023.12` | Eunomia       | [Agent-based Learning of Materials Datasets from Scientific Literature](http://arxiv.org/abs/2312.11690) | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/AI4ChemS/Eunomia) |
@@ -31,3 +35,20 @@
 | `2023.08` | ChatMOF       | [ChatMOF: An Autonomous AI System for Predicting and Generating Metal-Organic Frameworks](http://arxiv.org/abs/2308.01423) | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/Yeonghun1675/ChatMOF) |
 | `2023.04` | ChemCrow      | [ChemCrow: Augmenting large-language models with chemistry tools](http://arxiv.org/abs/2304.05376) | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/ur-whitelab/chemcrow-public) |
 
+### Reviews 
+
+|   Date    |     Name      | Publication | Repositories |
+| :-------: | :----------   | :--------- | :---------: |
+| `2023.01` |  | []() | [<img src="../assets/github-mark-white.svg" width="20" />]() |
+| `2023.09` |  | [Cognitive Architectures for Language Agents](https://arxiv.org/abs/2309.02427) | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/ysymyth/awesome-language-agents) |
+| `2023.01` |  | [Large Language Model based Multi-Agents: A Survey of Progress and Challenges](https://arxiv.org/abs/2402.01680) | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/taichengguo/LLM_MultiAgents_Survey_Papers) |
+| `2023.08` |  | [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/abs/2308.11432) | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/Paitesanshi/LLM-Agent-Survey) |
+
+### Miscelaneous
+
+|   Date    |     Name      | Publication | Repositories |
+| :-------: | :----------   | :--------- | :---------: |
+| `2024.02` |               | [Prioritizing Safeguarding Over Autonomy: Risks of LLM Agents for Science](http:/ /arxiv.org/abs/2402.04247) | |
+|  |  | [LLM Agents Papers]() | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/zjunlp/LLMAgentPapers) |
+|  |  | [Awesome LLM agents]() | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/kaushikb11/awesome-llm-agents) |
+|  |  | [Awesome LLM-Powered Agent]() | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/hyp1231/awesome-llm-powered-agent) |

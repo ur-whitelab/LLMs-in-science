@@ -3,7 +3,7 @@
 
 |   Date    |     Name        | Publication | Repositories |
 | :-------: | :-------------- | :---------- | :----------: |
-| `2024.04` | DockingGA       | [DockingGA: enhancing targeted molecule generation using transformer neural network and genetic algorithm with docking simulation](https://academic.oup.com/bfg/advance-article-abstract/doi/10.1093/bfgp/elae011/7641743?redirectedFrom=fulltext&login=true) | [<img src="../assets/github-mark-white.svg" width="20" />]() |
+| `2024.04` | DockingGA        | [DockingGA: enhancing targeted molecule generation using transformer neural network and genetic algorithm with docking simulation](https://academic.oup.com/bfg/advance-article-abstract/doi/10.1093/bfgp/elae011/7641743?redirectedFrom=fulltext&login=true) | [<img src="../assets/github-mark-white.svg" width="20" />]() |
 | `2024.03` | BioMedLM        | [BioMedLM: A 2.7B Parameter Language Model Trained On Biomedical Text](https://arxiv.org/abs/2403.18421) | [🤗](https://huggingface.co/stanford-crfm/BioMedLM) |
 | `2024.03` | TSMMG           | [Instruction Multi-Constraint Molecular Generation Using a Teacher-Student Large Language Model](https://arxiv.org/abs/2403.13244) |  |
 | `2024.03` | 3M-Diffusion    | [3M-Diffusion: Latent Multi-Modal Diffusion for Text-Guided Generation of Molecular Graphs](https://arxiv.org/abs/2403.07179) | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/huaishengzhu/3MDiffusion) |
@@ -99,3 +99,10 @@
 | `2023.04` |  | [Chemical language models for de novo drug design: Challenges and opportunities](https://www.sciencedirect.com/science/article/pii/S0959440X23000015?via%3Dihub) | |
 | `2023.03` |  | [The future of chemistry is language](https://www.nature.com/articles/s41570-023-00502-0) | |
 | `2023.01` |  | [Assessment of chemistry knowledge in large language models that generate code](https://pubs.rsc.org/en/content/articlelanding/2023/dd/d2dd00087c) | |
+
+### Miscelaneous
+
+|   Date    |     Name      | Publication | Repositories |
+| :-------: | :----------   | :--------- | :---------: |
+|  |  | [Awesome-LLM]() | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/Hannibal046/Awesome-LLM) |
+|  |  | [Scientific Large Language Models (Sci-LLMs)]() | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/HICAI-ZJU/Scientific-LLM-Survey) |
