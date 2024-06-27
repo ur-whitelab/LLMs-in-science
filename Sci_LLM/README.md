@@ -30,7 +30,7 @@
 | `2023.09` | ChemSpaceAL     | [ChemSpaceAL: An Efficient Active Learning Methodology Applied to Protein-Specific Molecular Generation](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01456?ref=PDF)|  |
 | `2023.08` | DARWIN          | [DARWIN Series: Domain Specific Large Language Models for Natural Science](https://arxiv.org/abs/2308.13565)| [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/MasterAI-EAM/Darwin) |
 | `2023.08` | BioMedGPT-LM    | [BioMedGPT: Open Multimodal Generative Pre-trained Transformer for BioMedicine](https://arxiv.org/abs/2308.09442)| [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/PharMolix/OpenBioMed.) |
-| `2023.06` |       | [Generative Pre-trained Transformer (GPT) based model with relative attention for de novo drug design](https://www.sciencedirect.com/science/article/pii/S1476927123001020?via%3Dihub)|  |
+| `2023.06` |                 | [Generative Pre-trained Transformer (GPT) based model with relative attention for de novo drug design](https://www.sciencedirect.com/science/article/pii/S1476927123001020?via%3Dihub)|  |
 | `2023.06` | SGPT-RL         | [Optimization of binding affinities in chemical space with generative pre-trained transformer and deep reinforcement learning](https://f1000research.com/articles/12-757/v2)|  |
 | `2023.06` | TransAntivirus  | [Transformer-Based Molecular Generative Model for Antiviral Drug Design](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00536)|  |
 | `2023.06` | MULTIMODAL-MOLFORMER  | [Beyond Chemical Language: A Multimodal Approach to Enhance Molecular Property Prediction](http://arxiv.org/abs/2306.14919)|  |
@@ -49,13 +49,13 @@
 | `2023.04` | MaterialsBERT   | [A general-purpose material property data extraction pipeline from large polymer corpora using natural language processing](https://www.nature.com/articles/s41524-023-01003-w)|  |
 | `2023.03` | ChatDoctor      | [ChatDoctor: A Medical Chat Model Fine-Tuned on a Large Language Model Meta-AI (LLaMA) Using Medical Domain Knowledge](https://arxiv.org/abs/2303.14070)|  |
 | `2023.03` | CLAMP           | [Enhancing Activity Prediction Models in Drug Discovery with the Ability to Understand Human Language](https://arxiv.org/abs/2303.03363)|  |
-| `2023.02` |      | [Enhancing diversity in language based models for single-step retrosynthesis ](https://pubs.rsc.org/en/content/articlelanding/2023/dd/d2dd00110a)|  |
+| `2023.02` |                 | [Enhancing diversity in language based models for single-step retrosynthesis ](https://pubs.rsc.org/en/content/articlelanding/2023/dd/d2dd00110a)|  |
 | `2023.02` | BioTranslator   | [Multilingual translation for zero-shot biomedical classification using BioTranslator](https://www.nature.com/articles/s41467-023-36476-2)| [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/HanwenXuTHU/BioTranslatorProject) |
 | `2023.01` | MOLGEN          | [Domain-Agnostic Molecular Generation with Chemical Feedback](https://arxiv.org/abs/2301.11259)|  |
 | `2023.01` | CRTMorgan       | [Explore drug-like space with deep generative models](https://www.sciencedirect.com/science/article/pii/S1046202323000129?via%3Dihub)|  |
 | `2023.01` | PeTrans         | [PETrans: De Novo Drug Design with Protein-Specific Encoding Based on Transfer Learning](https://www.mdpi.com/1422-0067/24/2/1146)|  |
 | `2022.11` | Galactica       | [Galactica: A Large Language Model for Science](https://arxiv.org/abs/2211.09085)|  |
-| `2022.10` |       | [Augmented Hill-Climb increases reinforcement learning efficiency for language-based de novo molecule generation](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00646-z)|  |
+| `2022.10` |                 | [Augmented Hill-Climb increases reinforcement learning efficiency for language-based de novo molecule generation](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00646-z)|  |
 | `2022.10` | SolvBERT        | [SolvBERT for solvation free energy and solubility prediction: a demonstration of an NLP model for predicting the properties of molecular complexes](https://chemrxiv.org/engage/chemrxiv/article-details/633d6bbfea6a225b1809e24e) | |
 | `2022.09` | BioGPT          | [BioGPT: generative pre-trained transformer for biomedical text generation and mining](https://academic.oup.com/bib/article/23/6/bbac409/6713511?login=true)| [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/microsoft/BioGPT) |
 | `2022.09` | ChemBERTa-2     | [ChemBERTa-2: Towards Chemical Foundation Models](https://arxiv.org/abs/2209.01712) | |
@@ -74,9 +74,9 @@
 | `2021.09` | SMILES-GPT      | [Generative Pre-Training from Molecules](https://chemrxiv.org/engage/chemrxiv/article-details/6142f60742198e8c31782e9e)| [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/sanjaradylov/smiles-gpt) |
 | `2021.09` | Mol-BERT        | [Generative Adversarial Networks for Multi-Modal Multimedia Computing](https://www.hindawi.com/journals/wcmc/2021/7181815/) | |
 | `2021.06` | ChemBERT        | [ClinicalBERT: Modeling Clinical Notes and Predicting Hospital Readmission](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00284) | |
-| `2021.04` |    | [Extraction of organic chemistry grammar from unsupervised learning of chemical reactions](https://www.science.org/doi/10.1126/sciadv.abe4166)|  |
-| `2021.03` |    | [Prediction of chemical reaction yields using deep learning](https://iopscience.iop.org/article/10.1088/2632-2153/abc81d/meta)|  |
-| `2020.12` |    | [Mapping the Space of Chemical Reactions Using Attention-Based Neural Networks](https://arxiv.org/abs/2012.06051) | |
+| `2021.04` |                 | [Extraction of organic chemistry grammar from unsupervised learning of chemical reactions](https://www.science.org/doi/10.1126/sciadv.abe4166)|  |
+| `2021.03` |                 | [Prediction of chemical reaction yields using deep learning](https://iopscience.iop.org/article/10.1088/2632-2153/abc81d/meta)|  |
+| `2020.12` |                 | [Mapping the Space of Chemical Reactions Using Attention-Based Neural Networks](https://arxiv.org/abs/2012.06051) | |
 | `2020.11` | MolBERT         | [Molecular representation learning with language models and domain-relevant auxiliary tasks](https://arxiv.org/abs/2011.13230) | |
 | `2020.10` | Bio-Megatron    | [BioMegatron: Larger Biomedical Domain Language Model](https://arxiv.org/abs/2010.06060) | |
 | `2020.10` | ChemBERTa       | [ChemBERTa: Large-Scale Self-Supervised Pretraining for Molecular Property Prediction](https://arxiv.org/abs/2010.09885) | |
@@ -94,6 +94,7 @@
 ### Reviews
 |   Date    |     Name     | Publication | Repositories |
 | :-------: | :---------- | :--------- | :---------: |
+| `2024.02` |  | [A Survey of Generative AI for de novo Drug Design: New Frontiers in Molecule and Protein Generation](https://arxiv.org/abs/2402.08703) | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/gersteinlab/GenAI4Drug) |
 | `2024.02` |  | [Advances in machine learning with chemical language models in molecular property and reaction outcome predictions](https://onlinelibrary.wiley.com/doi/10.1002/jcc.27315) | |
 | `2024.01` |  | [Scientific Large Language Models: A Survey on Biological & Chemical Domains](https://arxiv.org/abs/2401.14656) | |
 | `2024.01` |  | [The Future of Molecular Studies through the Lens of Large Language Models](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01977) | |
@@ -107,5 +108,4 @@
 |   Date    |     Name      | Publication | Repositories |
 | :-------: | :----------   | :--------- | :---------: |
 |  |  | [Awesome-LLM]() | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/Hannibal046/Awesome-LLM) |
-|  |  | [GenAI4Drug]() | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/gersteinlab/GenAI4Drug) |
 |  |  | [Scientific Large Language Models (Sci-LLMs)]() | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/HICAI-ZJU/Scientific-LLM-Survey) |
