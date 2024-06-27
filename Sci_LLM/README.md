@@ -107,4 +107,5 @@
 |   Date    |     Name      | Publication | Repositories |
 | :-------: | :----------   | :--------- | :---------: |
 |  |  | [Awesome-LLM]() | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/Hannibal046/Awesome-LLM) |
+|  |  | [GenAI4Drug]() | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/gersteinlab/GenAI4Drug) |
 |  |  | [Scientific Large Language Models (Sci-LLMs)]() | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/HICAI-ZJU/Scientific-LLM-Survey) |
