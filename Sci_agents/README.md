@@ -37,10 +37,6 @@
 | `2023.06` | AmadeusGPT    | [AmadeusGPT: a natural language interface for interactive animal behavioral analysis](https://arxiv.org/abs/2307.04858) | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/AdaptiveMotorControlLab/AmadeusGPT) |
 | `2023.04` | ChemCrow      | [ChemCrow: Augmenting large-language models with chemistry tools](http://arxiv.org/abs/2304.05376) | [<img src="../assets/github-mark-white.svg" width="20" />](https://github.com/ur-whitelab/chemcrow-public) |
 
-### Reviews 
-
-|   Date    |     Name      | Publication | Repositories |
-| :-------: | :----------   | :--------- | :---------: |
 
 ### Miscelaneous
 

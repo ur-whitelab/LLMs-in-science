@@ -89,7 +89,6 @@
 | `2019.06` | BlueBERT        | [Transfer Learning in Biomedical Natural Language Processing: An Evaluation of BERT and ELMo on Ten Benchmarking Datasets](https://arxiv.org/abs/1906.05474) | |
 | `2019.04` | ClinicalBERT    | [ClinicalBERT: Modeling Clinical Notes and Predicting Hospital Readmission](https://arxiv.org/abs/1904.05342) | [🤗](https://huggingface.co/medicalai/ClinicalBERT) |
 
-### 
 
 ### Reviews
 |   Date    |     Name     | Publication | Repositories |
