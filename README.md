@@ -1,7 +1,7 @@
 # Large language models and autonomous agents in chemistry: a review
 
 <a href="#"><img src="https://img.shields.io/badge/Version-0.0.0-blue.svg"/></a>
-[![arXiv](https://img.shields.io/badge/arXiv-<INDEX>-b31b1b.svg)](https://arxiv.org/abs/<INDEX>)
+[![arXiv](https://img.shields.io/badge/arXiv-2407.01603-b31b1b.svg)](https://arxiv.org/abs/2407.01603)
 
 ![LLMTimeline](https://github.com/maykcaldas/LLMTimeline/blob/main/llm_ldt.png)
 
