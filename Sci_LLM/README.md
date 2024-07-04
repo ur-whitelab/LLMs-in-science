@@ -109,7 +109,3 @@
 | :-------: | :----------   | :--------- | :---------: |
 |  |  | [Awesome-LLM]() | [<img src="../assets/github.png" width="20" />](https://github.com/Hannibal046/Awesome-LLM) |
 |  |  | [Scientific Large Language Models (Sci-LLMs)]() | [<img src="../assets/github.png" width="20" />](https://github.com/HICAI-ZJU/Scientific-LLM-Survey) |
-
-
-
-[GH_dark] : <img src="../assets/github.png" width="20" /> "dark github icon"
