@@ -3,6 +3,7 @@
 
 |   Date    |     Name        | Publication | Repositories |
 | :-------: | :-------------- | :---------- | :----------: |
+| `2024.05` |         | [Specialising and Analysing Instruction-Tuned and Byte-Level Language Models for Organic Reaction Prediction](https://arxiv.org/abs/2405.10625) | [<img src="../assets/github.png" width="20" />]() |
 | `2024.04` | DockingGA        | [DockingGA: enhancing targeted molecule generation using transformer neural network and genetic algorithm with docking simulation](https://academic.oup.com/bfg/advance-article-abstract/doi/10.1093/bfgp/elae011/7641743?redirectedFrom=fulltext&login=true) | [<img src="../assets/github.png" width="20" />]() |
 | `2024.03` | BioMedLM        | [BioMedLM: A 2.7B Parameter Language Model Trained On Biomedical Text](https://arxiv.org/abs/2403.18421) | [🤗](https://huggingface.co/stanford-crfm/BioMedLM) |
 | `2024.03` | TSMMG           | [Instruction Multi-Constraint Molecular Generation Using a Teacher-Student Large Language Model](https://arxiv.org/abs/2403.13244) |  |
@@ -88,7 +89,6 @@
 | `2019.08` | Molecular Transformer | [Molecular Transformer: A Model for Uncertainty-Calibrated Chemical Reaction Prediction](https://pubs.acs.org/doi/10.1021/acscentsci.9b00576)| [<img src="../assets/github.png" width="20" />]() |
 | `2019.06` | BlueBERT        | [Transfer Learning in Biomedical Natural Language Processing: An Evaluation of BERT and ELMo on Ten Benchmarking Datasets](https://arxiv.org/abs/1906.05474) | |
 | `2019.04` | ClinicalBERT    | [ClinicalBERT: Modeling Clinical Notes and Predicting Hospital Readmission](https://arxiv.org/abs/1904.05342) | [🤗](https://huggingface.co/medicalai/ClinicalBERT) |
-
 
 ### Reviews
 |   Date    |     Name     | Publication | Repositories |
