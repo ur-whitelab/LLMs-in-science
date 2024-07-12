@@ -3,7 +3,8 @@
 
 |   Date    |     Name        | Publication | Repositories |
 | :-------: | :-------------- | :---------- | :----------: |
-| `2024.06` | BioLunar        | [An LLM-based Knowledge Synthesis and Scientific Reasoning Framework for Biomedical Discovery](ttps://arxiv.org/abs/2406.18626) | [<img src="../assets/github.png" width="20" />](https://github.com/neuro-symbolic-ai/lunar-bioverse-demo) |
+| `2024.06` | MatText        | [MatText: Do Language Models Need More than Text & Scale for Materials Modeling?](https://arxiv.org/abs/2406.17295) | [<img src="../assets/github.png" width="20" />](https://github.com/lamalab-org/mattext) |
+| `2024.06` | BioLunar        | [An LLM-based Knowledge Synthesis and Scientific Reasoning Framework for Biomedical Discovery](https://arxiv.org/abs/2406.18626) | [<img src="../assets/github.png" width="20" />](https://github.com/neuro-symbolic-ai/lunar-bioverse-demo) |
 | `2024.05` |         | [Specialising and Analysing Instruction-Tuned and Byte-Level Language Models for Organic Reaction Prediction](https://arxiv.org/abs/2405.10625) | [<img src="../assets/github.png" width="20" />]() |
 | `2024.04` | DockingGA        | [DockingGA: enhancing targeted molecule generation using transformer neural network and genetic algorithm with docking simulation](https://academic.oup.com/bfg/advance-article-abstract/doi/10.1093/bfgp/elae011/7641743?redirectedFrom=fulltext&login=true) | [<img src="../assets/github.png" width="20" />]() |
 | `2024.03` | BioMedLM        | [BioMedLM: A 2.7B Parameter Language Model Trained On Biomedical Text](https://arxiv.org/abs/2403.18421) | [🤗](https://huggingface.co/stanford-crfm/BioMedLM) |
