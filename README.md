@@ -18,9 +18,12 @@ With this in mind, we aim to create this repository as a broad, open-source, col
 
 - [Large Language Models (LLM)](https://github.com/ur-whitelab/LLMs-in-science/tree/main/LLM#large-language-models-llm)
     - [Reviews](https://github.com/ur-whitelab/LLMs-in-science/tree/main/LLM#reviews)
+    - [Miscelaneous](https://github.com/ur-whitelab/LLMs-in-science/tree/main/LLM#miscelaneous)
 
 - [LLMs in science](https://github.com/ur-whitelab/LLMs-in-science/blob/main/Sci_LLM/README.md#llms-in-science)
-    - [Tasks](https://github.com/ur-whitelab/LLMs-in-science/blob/main/Sci_LLM/README.md#tasks)
+    - [Models](https://github.com/ur-whitelab/LLMs-in-science/blob/main/Sci_LLM/README.md#models)
+    - [Reviews](https://github.com/ur-whitelab/LLMs-in-science/blob/main/Sci_LLM/README.md#reviews)
+    - [Miscellaneous](https://github.com/ur-whitelab/LLMs-in-science/blob/main/Sci_LLM/README.md#miscelaneous)
 
 - [LLM-based autonomous agents](https://github.com/ur-whitelab/LLMs-in-science/tree/main/Agents#llm-based-autonomous-agents)
     - [Memory](https://github.com/ur-whitelab/LLMs-in-science/tree/main/Agents#memory)
@@ -28,10 +31,14 @@ With this in mind, we aim to create this repository as a broad, open-source, col
     - [Tools (or action)](https://github.com/ur-whitelab/LLMs-in-science/tree/main/Agents#tools-or-action)
     - [Profiling](https://github.com/ur-whitelab/LLMs-in-science/tree/main/Agents#profiling)
     - [Perception module](https://github.com/ur-whitelab/LLMs-in-science/tree/main/Agents#perception-module)
-
+    - [Agents](https://github.com/ur-whitelab/LLMs-in-science/tree/main/Agents#agents)
+    - [Reviews](https://github.com/ur-whitelab/LLMs-in-science/blob/main/Agents/README.md#reviews)
+    - [Miscellaneous](https://github.com/ur-whitelab/LLMs-in-science/blob/main/Agents/README.md#miscelaneous)
 
 - [Agents in science](https://github.com/ur-whitelab/LLMs-in-science/tree/main/Sci_agents#llms-in-science)
     - [LLMs with memory](https://github.com/ur-whitelab/LLMs-in-science/tree/main/Sci_agents#llms-with-memory)
     - [LLMs with reasoning](https://github.com/ur-whitelab/LLMs-in-science/tree/main/Sci_agents#llms-with-reasoning)
     - [Agents](https://github.com/ur-whitelab/LLMs-in-science/tree/main/Sci_agents#agents)
+    - [Reviews](https://github.com/ur-whitelab/LLMs-in-science/blob/main/Sci_agents/README.md#reviews)
+    - [Miscellaneous](https://github.com/ur-whitelab/LLMs-in-science/blob/main/Sci_agents/README.md#miscelaneous)
 

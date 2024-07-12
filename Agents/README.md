@@ -73,6 +73,11 @@
 | `2022.12` |  | [Robust Speech Recognition via Large-Scale Weak Supervision](https://arxiv.org/abs/2212.04356) | [<img src="../assets/github.png" width="20" />](https://github.com/openai/whisper) |
 | `2022.09` |  | [Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering](https://arxiv.org/abs/2209.09513) | [<img src="../assets/github.png" width="20" />](https://github.com/lupantech/ScienceQA) |
 
+### Agents
+
+|   Date    |     Name     | Publication | Repositories |
+| :-------: | :---------- | :--------- | :---------: |
+
 
 ### Reviews
 
@@ -84,3 +89,13 @@
 | `2023.09` |  | [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/abs/2309.07864) | [<img src="../assets/github.png" width="20" />](https://github.com/WooooDyy/LLM-Agent-Paper-List) |
 | `2023.08` |  | [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/abs/2308.11432) | [<img src="../assets/github.png" width="20" />](https://github.com/Paitesanshi/LLM-Agent-Survey) |
 | `2023.05` |  | [Domain Specialization as the Key to Make Large Language Models Disruptive: A Comprehensive Survey](https://arxiv.org/abs/2305.18703) |  |
+
+### Miscelaneous
+|   Date    |     Name     | Publication | Repositories |
+| :-------: | :---------- | :--------- | :---------: |
+|  |  | [LLM Agents Papers](https://github.com/zjunlp/LLMAgentPapers) | [<img src="../assets/github.png" width="20" />](https://github.com/zjunlp/LLMAgentPapers) |
+|  |  | [Awesome LLM agents](https://github.com/kaushikb11/awesome-llm-agents) | [<img src="../assets/github.png" width="20" />](https://github.com/kaushikb11/awesome-llm-agents) |
+|  |  | [Awesome LLM-Powered Agent](https://github.com/hyp1231/awesome-llm-powered-agent) | [<img src="../assets/github.png" width="20" />](https://github.com/hyp1231/awesome-llm-powered-agent) |
+| |  | [LLM-Agents-Papers](https://github.com/tmgthb/Autonomous-Agents) | [<img src="../assets/github.png" width="20" />](https://github.com/tmgthb/Autonomous-Agents) |
+| |  | [Autonomous Agents](https://github.com/AGI-Edgerunners/LLM-Agents-Papers) | [<img src="../assets/github.png" width="20" />](https://github.com/AGI-Edgerunners/LLM-Agents-Papers) |
+| |  | [🤖 Awesome-Embodied-Agent-with-LLMs](https://github.com/zchoi/Awesome-Embodied-Agent-with-LLMs) | [<img src="../assets/github.png" width="20" />](https://github.com/zchoi/Awesome-Embodied-Agent-with-LLMs) |

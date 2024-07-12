@@ -9,3 +9,10 @@
 | `2023.07` |  | [A Survey on Evaluation of Large Language Models](https://arxiv.org/abs/2307.03109) | |
 | `2023.03` |  | [Survey of Hallucination in Natural Language Generation](https://dl.acm.org/doi/10.1145/3571730) | |
 | `2023.02` |  | [Augmented Language Models: a Survey](https://arxiv.org/abs/2302.07842) | |
+
+### Miscelaneous
+
+|   Date    |     Name      | Publication | Repositories |
+| :-------: | :----------   | :--------- | :---------: |
+|  | Knowledge-Graph LLM Papers | [KG-LLM-Papers]() | [<img src="../assets/github.png" width="20" />](https://github.com/zjukg/KG-LLM-Papers) |
+
