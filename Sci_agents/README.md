@@ -46,3 +46,8 @@
 |  |  | [LLM Agents Papers]() | [<img src="../assets/github.png" width="20" />](https://github.com/zjunlp/LLMAgentPapers) |
 |  |  | [Awesome LLM agents]() | [<img src="../assets/github.png" width="20" />](https://github.com/kaushikb11/awesome-llm-agents) |
 |  |  | [Awesome LLM-Powered Agent]() | [<img src="../assets/github.png" width="20" />](https://github.com/hyp1231/awesome-llm-powered-agent) |
+
+### Reviews
+|   Date    |     Name      | Publication | Repositories |
+| :-------: | :----------   | :--------- | :---------: |
+| `2024.07` |               | [A Review of Large Language Models and Autonomous Agents in Chemistry](https://arxiv.org/abs/2407.01603) | |
