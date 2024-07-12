@@ -37,17 +37,13 @@
 | `2023.06` | AmadeusGPT    | [AmadeusGPT: a natural language interface for interactive animal behavioral analysis](https://arxiv.org/abs/2307.04858) | [<img src="../assets/github.png" width="20" />](https://github.com/AdaptiveMotorControlLab/AmadeusGPT) |
 | `2023.04` | ChemCrow      | [ChemCrow: Augmenting large-language models with chemistry tools](http://arxiv.org/abs/2304.05376) | [<img src="../assets/github.png" width="20" />](https://github.com/ur-whitelab/chemcrow-public) |
 
+### Reviews
+|   Date    |     Name      | Publication | Repositories |
+| :-------: | :----------   | :--------- | :---------: |
+| `2024.07` |               | [A Review of Large Language Models and Autonomous Agents in Chemistry](https://arxiv.org/abs/2407.01603) | [<img src="../assets/github.png" width="20" />](https://github.com/ur-whitelab/LLMs-in-science) |
 
 ### Miscelaneous
 
 |   Date    |     Name      | Publication | Repositories |
 | :-------: | :----------   | :--------- | :---------: |
 | `2024.02` |               | [Prioritizing Safeguarding Over Autonomy: Risks of LLM Agents for Science](http://arxiv.org/abs/2402.04247) | |
-|  |  | [LLM Agents Papers]() | [<img src="../assets/github.png" width="20" />](https://github.com/zjunlp/LLMAgentPapers) |
-|  |  | [Awesome LLM agents]() | [<img src="../assets/github.png" width="20" />](https://github.com/kaushikb11/awesome-llm-agents) |
-|  |  | [Awesome LLM-Powered Agent]() | [<img src="../assets/github.png" width="20" />](https://github.com/hyp1231/awesome-llm-powered-agent) |
-
-### Reviews
-|   Date    |     Name      | Publication | Repositories |
-| :-------: | :----------   | :--------- | :---------: |
-| `2024.07` |               | [A Review of Large Language Models and Autonomous Agents in Chemistry](https://arxiv.org/abs/2407.01603) | [<img src="../assets/github.png" width="20" />](https://github.com/ur-whitelab/LLMs-in-science) |

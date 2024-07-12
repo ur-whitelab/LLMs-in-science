@@ -105,9 +105,17 @@
 | `2023.03` |  | [The future of chemistry is language](https://www.nature.com/articles/s41570-023-00502-0) | |
 | `2023.01` |  | [Assessment of chemistry knowledge in large language models that generate code](https://pubs.rsc.org/en/content/articlelanding/2023/dd/d2dd00087c) | |
 
+### Reviews
+|   Date    |     Name      | Publication | Repositories |
+| :-------: | :----------   | :--------- | :---------: |
+|  |  | [Scientific Large Language Models: A Survey on Biological & Chemical Domains](https://arxiv.org/abs/2401.14656) | [<img src="../assets/github.png" width="20" />](https://github.com/HICAI-ZJU/Scientific-LLM-Survey) |
+
+
 ### Miscelaneous
 
 |   Date    |     Name      | Publication | Repositories |
 | :-------: | :----------   | :--------- | :---------: |
-|  |  | [Awesome-LLM]() | [<img src="../assets/github.png" width="20" />](https://github.com/Hannibal046/Awesome-LLM) |
-|  |  | [Scientific Large Language Models (Sci-LLMs)]() | [<img src="../assets/github.png" width="20" />](https://github.com/HICAI-ZJU/Scientific-LLM-Survey) |
+|  | Mozi | [Mozi: A Scientific Large-scale Language Model](https://github.com/gmftbyGMFTBY/science-llm) | [<img src="../assets/github.png" width="20" />](https://github.com/gmftbyGMFTBY/science-llm) |
+|  |  | [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) | [<img src="../assets/github.png" width="20" />](https://github.com/Hannibal046/Awesome-LLM) |
+|  |  | [Awesome Scientific Language Models](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models) | [<img src="../assets/github.png" width="20" />](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models) |
+|  |  | [Generating scientific hypotheses with Large Language Models](https://github.com/Paureel/LLM-SCI-GEN) | [<img src="../assets/github.png" width="20" />](https://github.com/Paureel/LLM-SCI-GEN) |
