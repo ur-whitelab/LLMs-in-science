@@ -12,6 +12,7 @@
 |   Date    |     Name     | Publication | Repositories |
 | :-------: | :---------- | :--------- | :---------: |
 | `2024.04` | Phi-3         | [Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone](https://arxiv.org/abs/2404.14219v3) |  |
+| `2024.03` | Claude 3      | [The Claude 3 Model Family: Opus, Sonnet, Haiku](https://www-cdn.anthropic.com/f2986af8d052f26236f6251da62d16172cfabd6e/claude-3-model-card.pdf) |  [🌐](https://www.anthropic.com/news/claude-3-family) |
 | `2024.01` | Mixtral       | [Mixtral of Experts](https://arxiv.org/abs/2401.04088) |  |
 | `2023.12` | Gemini        | [Gemini: A Family of Highly Capable Multimodal Models](https://arxiv.org/abs/2312.11805) |  |
 | `2023.12` | Phi-2         | [Phi-2: The surprising power of small language models](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/) | [🤗](https://huggingface.co/microsoft/phi-2) |
@@ -20,6 +21,7 @@
 | `2023.10` | Zephyr        | [Zephyr: Direct Distillation of LM Alignment](https://arxiv.org/abs/2310.16944) |  |
 | `2023.09` | Phi-1.5       | [Textbooks Are All You Need II: phi-1.5 technical report](https://arxiv.org/abs/2309.05463) |  |
 | `2023.09` | NExT-GPT      | [NExT-GPT: Any-to-Any Multimodal LLM](https://arxiv.org/abs/2309.05519) | [<img src="../assets/github.png" width="20" />](https://github.com/NExT-GPT/NExT-GPT) |
+| `2023.07` | Claude 2      | [Model Card and Evaluations for Claude Models](https://www-cdn.anthropic.com/bd2a28d2535bfb0494cc8e2a3bf135d2e7523226/Model-Card-Claude-2.pdf) |  [🌐](https://www.anthropic.com/news/claude-2) |
 | `2023.07` | LLaMa2        | [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288) |  |
 | `2023.06` | Macaw         | [Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and Text Integration](https://arxiv.org/abs/2306.09093) | [<img src="../assets/github.png" width="20" />](https://github.com/lyuchenyang/Macaw-LLM) |
 | `2023.06` | Phi-1         | [Textbooks Are All You Need](https://arxiv.org/abs/2306.11644) |  |
