@@ -8,10 +8,6 @@
 
 |   Date    |     Name     | Publication | Repositories |
 | :-------: | :---------- | :--------- | :---------: |
-| `` |  | []() |  |
-| `` |  | []() |  |
-| `` |  | []() |  |
-| `` |  | []() |  |
 | `2024.04` | Phi-3         | [Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone](https://arxiv.org/abs/2404.14219v3) |  |
 | `2024.01` | Mixtral       | [Mixtral of Experts](https://arxiv.org/abs/2401.04088) |  |
 | `2023.12` | Gemini        | [Gemini: A Family of Highly Capable Multimodal Models](https://arxiv.org/abs/2312.11805) |  |
