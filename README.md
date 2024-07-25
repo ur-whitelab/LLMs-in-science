@@ -17,6 +17,7 @@ With this in mind, we aim to create this repository as a broad, open-source, col
 ## Table of Contents
 
 - [Large Language Models (LLM)](https://github.com/ur-whitelab/LLMs-in-science/tree/main/LLM#large-language-models-llm)
+    - [Models](https://github.com/ur-whitelab/LLMs-in-science/tree/main/LLM#models)
     - [Reviews](https://github.com/ur-whitelab/LLMs-in-science/tree/main/LLM#reviews)
     - [Miscelaneous](https://github.com/ur-whitelab/LLMs-in-science/tree/main/LLM#miscelaneous)
 
