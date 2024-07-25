@@ -2,8 +2,11 @@
 
 ### Models
 
-<!-- [<img src="../assets/github.png" width="20" />]()
-[🤗]() -->
+<!-- 
+[<img src="../assets/github.png" width="20" />]()
+[🤗]() 
+[🌐]()
+-->
 
 
 |   Date    |     Name     | Publication | Repositories |
@@ -21,7 +24,7 @@
 | `2023.06` | Macaw         | [Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and Text Integration](https://arxiv.org/abs/2306.09093) | [<img src="../assets/github.png" width="20" />](https://github.com/lyuchenyang/Macaw-LLM) |
 | `2023.06` | Phi-1         | [Textbooks Are All You Need](https://arxiv.org/abs/2306.11644) |  |
 | `2023.05` | PaLM 2        | [PaLM 2 Technical Report](https://arxiv.org/abs/2305.10403) |  |
-| `2023.05` | Gorilla       | [Gorilla: Large Language Model Connected with Massive APIs](https://arxiv.org/abs/2305.15334) | [Web Page](https://gorilla.cs.berkeley.edu/), [<img src="../assets/github.png" width="20" />](https://github.com/ShishirPatil/gorilla) [🤗](https://huggingface.co/gorilla-llm) |
+| `2023.05` | Gorilla       | [Gorilla: Large Language Model Connected with Massive APIs](https://arxiv.org/abs/2305.15334) | [🌐](https://gorilla.cs.berkeley.edu/), [<img src="../assets/github.png" width="20" />](https://github.com/ShishirPatil/gorilla) [🤗](https://huggingface.co/gorilla-llm) |
 | `2023.04` | Koala         | [Koala: A Dialogue Model for Academic Research](https://bair.berkeley.edu/blog/2023/04/03/koala/) |  |
 | `2023.03` | Vicuna        | [Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality](https://lmsys.org/blog/2023-03-30-vicuna/) | [<img src="../assets/github.png" width="20" />](https://github.com/lm-sys/FastChat) |
 | `2023.03` | Alpaca        | [Alpaca: A Strong, Replicable Instruction-Following Model](https://crfm.stanford.edu/2023/03/13/alpaca.html) | [<img src="../assets/github.png" width="20" />](https://github.com/tatsu-lab/stanford_alpaca) |
@@ -51,12 +54,14 @@
 | :-------: | :---------- | :--------- | :---------: |
 | `2024.02` |  | [Large Language Models: A Survey](https://arxiv.org/abs/2402.06196) | |
 | `2024.02` |  | [A Review on Large Language Models: Architectures, Applications, Taxonomies, Open Issues and Challenges](https://ieeexplore.ieee.org/document/10433480) | |
-| `2023.10` |  | [Evaluating Large Language Models: A Comprehensive Survey](https://arxiv.org/abs/2310.19736) | |
+| `2023.10` |  | [Evaluating Large Language Models: A Comprehensive Survey](https://arxiv.org/abs/2310.19736) | [<img src="../assets/github.png" width="20" />](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers) |
 | `2023.09` |  | [Large Language Model Alignment: A Survey](https://arxiv.org/abs/2309.15025) |  |
-| `2023.07` |  | [A Comprehensive Overview of Large Language Models](https://arxiv.org/abs/2307.06435) | |
-| `2023.07` |  | [A Survey on Evaluation of Large Language Models](https://arxiv.org/abs/2307.03109) | |
-| `2023.03` |  | [Survey of Hallucination in Natural Language Generation](https://dl.acm.org/doi/10.1145/3571730) | |
-| `2023.02` |  | [Augmented Language Models: a Survey](https://arxiv.org/abs/2302.07842) | |
+| `2023.07` |  | [A Comprehensive Overview of Large Language Models](https://arxiv.org/abs/2307.06435) |  |
+| `2023.07` |  | [A Survey on Evaluation of Large Language Models](https://arxiv.org/abs/2307.03109) | [<img src="../assets/github.png" width="20" />](https://github.com/MLGroupJLU/LLM-eval-survey) |
+| `2023.03` |  | [Survey of Hallucination in Natural Language Generation](https://dl.acm.org/doi/10.1145/3571730) |  |
+| `2023.02` |  | [Augmented Language Models: a Survey](https://arxiv.org/abs/2302.07842) | [<img src="../assets/github.png" width="20" />]() |
+
+
 
 ### Miscelaneous
 
