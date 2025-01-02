@@ -65,7 +65,7 @@
 
 
 
-### Miscelaneous
+### Miscellaneous
 
 |   Date    |     Name      | Publication | Repositories |
 | :-------: | :----------   | :--------- | :---------: |
