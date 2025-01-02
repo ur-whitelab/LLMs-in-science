@@ -90,7 +90,7 @@
 | `2023.08` |  | [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/abs/2308.11432) | [<img src="../assets/github.png" width="20" />](https://github.com/Paitesanshi/LLM-Agent-Survey) |
 | `2023.05` |  | [Domain Specialization as the Key to Make Large Language Models Disruptive: A Comprehensive Survey](https://arxiv.org/abs/2305.18703) |  |
 
-### Miscelaneous
+### Miscellaneous
 |   Date    |     Name     | Publication | Repositories |
 | :-------: | :---------- | :--------- | :---------: |
 |  |  | [LLM Agents Papers](https://github.com/zjunlp/LLMAgentPapers) | [<img src="../assets/github.png" width="20" />](https://github.com/zjunlp/LLMAgentPapers) |
