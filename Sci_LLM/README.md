@@ -112,7 +112,7 @@
 |  |  | [Scientific Large Language Models: A Survey on Biological & Chemical Domains](https://arxiv.org/abs/2401.14656) | [<img src="../assets/github.png" width="20" />](https://github.com/HICAI-ZJU/Scientific-LLM-Survey) |
 
 
-### Miscelaneous
+### Miscellaneous
 
 |   Date    |     Name      | Publication | Repositories |
 | :-------: | :----------   | :--------- | :---------: |
