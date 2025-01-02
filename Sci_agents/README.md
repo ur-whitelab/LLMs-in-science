@@ -42,7 +42,7 @@
 | :-------: | :----------   | :--------- | :---------: |
 | `2024.07` |               | [A Review of Large Language Models and Autonomous Agents in Chemistry](https://arxiv.org/abs/2407.01603) | [<img src="../assets/github.png" width="20" />](https://github.com/ur-whitelab/LLMs-in-science) |
 
-### Miscelaneous
+### Miscellaneous
 
 |   Date    |     Name      | Publication | Repositories |
 | :-------: | :----------   | :--------- | :---------: |
