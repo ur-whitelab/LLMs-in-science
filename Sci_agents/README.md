@@ -19,6 +19,11 @@
 
 |   Date    |     Name      | Publication | Repositories |
 | :-------: | :----------   | :--------- | :---------: |
+| `2024.11` | The Virtual Lab | [The Virtual Lab: AI Agents Design New SARS-CoV-2 Nanobodies with Experimental Validation](https://www.biorxiv.org/content/10.1101/2024.11.11.623004v1)      |       [<img src="../assets/github.png" width="20" />](https://github.com/zou-group/virtual-lab)        |
+| `2024.11` | DrugAgent       | [DrugAgent: Automating AI-aided Drug Discovery Programming through LLM Multi-Agent Collaboration](https://arxiv.org/abs/2411.15692)                          |                                                                                                        |
+| `2024.11` | LLM-RDF         | [An automatic end-to-end chemical synthesis development platform powered by large language models](https://www.nature.com/articles/s41467-024-54457-x)       |        [<img src="../assets/github.png" width="20" />](https://github.com/Ruan-Yixiang/LLM-RDF)        |
+| `2024.10` | dZiner          | [dZiner: Rational Inverse Design of Materials with AI Agents](https://arxiv.org/abs/2410.03963)                                                              |         [<img src="../assets/github.png" width="20" />](https://github.com/mehradans92/dziner)         |
+| `2024.10` | CACTUS          | [CACTUS: Chemistry Agent Connecting Tool Usage to Science](https://pubs.acs.org/doi/10.1021/acsomega.4c08408)                                                |            [<img src="../assets/github.png" width="20" />](https://github.com/pnnl/cactus)             |
 | `2024.06` | LLaMP         | [LLaMP: Large Language Model Made Powerful for High-fidelity Materials Knowledge Retrieval and Distillation](https://arxiv.org/abs/2401.17244) | [<img src="../assets/github.png" width="20" />](https://github.com/chiang-yuan/llamp) |
 | `2024.04` | CRISPR-GPT    | [CRISPR-GPT: An LLM Agent for Automated Design of Gene-Editing Experiments](https://arxiv.org/abs/2404.18021) |  |
 | `2024.02` | TAIS          | [Toward a Team of AI-made Scientists for Scientific Discovery from Gene Expression Data](https://arxiv.org/abs/2402.12391) |  |
@@ -38,9 +43,11 @@
 | `2023.04` | ChemCrow      | [ChemCrow: Augmenting large-language models with chemistry tools](http://arxiv.org/abs/2304.05376) | [<img src="../assets/github.png" width="20" />](https://github.com/ur-whitelab/chemcrow-public) |
 
 ### Reviews
-|   Date    |     Name      | Publication | Repositories |
-| :-------: | :----------   | :--------- | :---------: |
-| `2024.07` |               | [A Review of Large Language Models and Autonomous Agents in Chemistry](https://arxiv.org/abs/2407.01603) | [<img src="../assets/github.png" width="20" />](https://github.com/ur-whitelab/LLMs-in-science) |
+
+|   Date    | Name | Publication                                                                                                |                                          Repositories                                           |
+| :-------: | :--- | :--------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------: |
+| `2024.10` |      | [Empowering biomedical discovery with AI agents](https://www.cell.com/cell/fulltext/S0092-8674(24)01070-5) |                                                                                                 |
+| `2024.07` |      | [A Review of Large Language Models and Autonomous Agents in Chemistry](https://arxiv.org/abs/2407.01603)   | [<img src="../assets/github.png" width="20" />](https://github.com/ur-whitelab/LLMs-in-science) |
 
 ### Miscellaneous
 
